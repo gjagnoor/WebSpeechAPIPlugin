@@ -1,0 +1,16 @@
+{
+"companyName": "OutboxEDU",
+"productName": "obxEdutopia",
+"productVersion": "2",
+"dataUrl": "outboxEDU.data.unityweb",
+"wasmCodeUrl": "outboxEDU.wasm.code.unityweb",
+"wasmFrameworkUrl": "outboxEDU.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.13f1"
+}

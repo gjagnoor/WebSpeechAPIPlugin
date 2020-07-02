@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94294036401",
+    "firebase_url": "https://outboxedu.firebaseio.com",
+    "project_id": "outboxedu",
+    "storage_bucket": "outboxedu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94294036401:android:5263904bb7c31d0f85b790",
+        "android_client_info": {
+          "package_name": "com.CieloXR.Edutopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94294036401-olgufk2gm3c58da3sbnv0s37f26pbj7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLGQEKBynhhhWSpMnGxXy6cJ--NT5Mlwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94294036401-olgufk2gm3c58da3sbnv0s37f26pbj7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94294036401-qp3jgpcdcq6u4dg6rdd40o1ooddnfujt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CieloXR.Edutopia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
